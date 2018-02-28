@@ -1,0 +1,31 @@
+p
+{
+	color: white;
+	font-size: 20px; /* Paragraphes de 14 pixels */
+	font-family: Impact;
+	text-align: left;
+}
+h1
+{
+	color : fuchsia;
+	font-size: 50px; /* Titres de 40 pixels */
+	font-family: Times New Roman;
+	font-style: italic;
+	text-align: center; 
+}
+ul
+{
+	color : green;
+	font-family: Arial Black;
+	text-decoration: underline;
+    text-align: left;
+}
+body
+{
+	background-color:grey;
+    background-image: url("fonddemonsiteweb.JPG");
+    background-attachment: fixed; /* Le fond restera fixe */
+    opacity: 0.7;	
+}
+
+                          
