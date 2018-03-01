@@ -1,5 +1,23 @@
 a{
-	color: green;
+	color: white;
+}
+
+a:hover{
+	color: fuchsia;
+}
+
+ul a{
+	color: #333;
+	background-color: white;
+	padding: 5px;
+	border-radius: 5px;
+	opacity: 0.8;
+	text-decoration: none;
+}
+
+ul a:hover{
+	color: #333;
+	opacity: 1;
 }
 
 p{
@@ -18,18 +36,17 @@ h1{
 }
 
 ul{
-	color : green;
 	font-family: Arial Black;
-	text-decoration: underline;
     text-align: left;
+    list-style:none;
+    padding: 0px;
 }
 
 li{
-    color : green;
     font-size: 25px; /* Titres de 25 pixels */
 	font-family: Arial Black;
-	text-decoration: underline;
     text-align: left;
+    margin-bottom: 20px;
 }	
 
 body{
