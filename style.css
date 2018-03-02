@@ -74,3 +74,12 @@ body{
 #page_4{
     background-image: url("media/fondecranconclusion.jpg");
 }
+
+.geek{
+	background-color: red;
+}
+
+span{
+    background-color: red;	
+}
+ 
